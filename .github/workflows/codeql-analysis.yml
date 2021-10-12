@@ -13,10 +13,10 @@ name: "CodeQL"
 
 on:
   push:
-    branches: [ lincxln ]
+    branches: [ Yogaexe ]
   pull_request:
     # The branches below must be a subset of the branches above
-    branches: [ lincxln ]
+    branches: [ Yogaexe ]
   schedule:
     - cron: '27 10 * * 5'
 
